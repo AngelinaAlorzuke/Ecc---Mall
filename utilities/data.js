@@ -1,0 +1,82 @@
+const data = {
+  products: [
+    {
+      name: 'free Shirts',
+      slug: 'Free-shirts',
+      category: 'shirts',
+      image: '/images/shirt1.jpg',
+      price: 70,
+      brand: 'Nike',
+      rating: 4.6,
+      numReviews: 10,
+      countInStock: 20,
+      description: 'A Popular Shirt',
+    },
+    {
+      name: 'Fit Shirts',
+      slug: 'Fit-shirts',
+
+      category: 'shirts',
+      image: '/images/shirt2.jpg',
+      price: 70,
+      brand: 'adidas',
+      rating: 4.5,
+      numReviews: 10,
+      countInStock: 20,
+      description: 'A Popular Shirt',
+    },
+    {
+      name: 'Slim Shirts',
+      slug: 'Slim-shirts',
+
+      category: 'shirts',
+      image: '/images/shirt3.jpg',
+      price: 70,
+      brand: 'Nike',
+      rating: 4.6,
+      numReviews: 10,
+      countInStock: 20,
+      description: 'A Popular Shirt',
+    },
+    {
+      name: 'Pants',
+      slug: 'Golf-Pant',
+
+      category: 'Pants',
+      image: '/images/pants1.jpg',
+      price: 70,
+      brand: 'Oliver',
+      rating: 4.1,
+      numReviews: 10,
+      countInStock: 20,
+      description: 'Smart Looking Pants',
+    },
+    {
+      name: 'Fit Pants ',
+      slug: 'Fit-Pant',
+
+      category: 'Pants',
+      image: '/images/pants2.jpg',
+      price: 90,
+      brand: 'Zara',
+      rating: 4.7,
+      numReviews: 10,
+      countInStock: 20,
+      description: 'A Popular Pants',
+    },
+    {
+      name: 'Classy pants ',
+      slug: 'Classy-Pant',
+
+      category: 'Pants',
+      image: '/images/pants3.jpg',
+      price: 90,
+      brand: 'Casely',
+      rating: 4.2,
+      numReviews: 10,
+      countInStock: 20,
+      description: 'A Popular Pants',
+    },
+  ],
+};
+export default data;
